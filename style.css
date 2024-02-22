@@ -1,6 +1,6 @@
 /* You can add custom CSS and extend Boostrap styles in this file. Remember, Bootstrap is just CSS at the end of the day! */
 .hero-section {
-  background-image: url(img/pinky.jpg);
+  background-image: url(pinky.jpg);
   min-height: 45em;
   background-size: cover;
   background-position: center;
