@@ -1,0 +1,39 @@
+/* You can add custom CSS and extend Boostrap styles in this file. Remember, Bootstrap is just CSS at the end of the day! */
+.hero-section {
+  background-image: url(img/pinky.jpg);
+  min-height: 45em;
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+  color: #FFF;
+  font-family: "Anta", sans-serif;
+  text-align: center;
+  padding-top: 250px;
+}
+
+img.avatar {
+  border-radius: 50%;
+  height: 10rem;
+  border: 8px solid #F5EEE6;
+}
+
+.mission-section p {
+  text-align: left;
+}
+
+.custom-img {
+  max-width: 25%;
+  display: block;
+  margin: auto;
+}
+body{
+   font-family: "Kode Mono", monospace;
+}
+
+.fs-4 {
+  font-family: "Anta", sans-serif;
+}
+a:hover icon {
+  filter: grayscale(100%); /* Change the color to grayscale on hover */
+}
